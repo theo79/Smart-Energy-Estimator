@@ -2,8 +2,8 @@
 
 This function calculates energy consumption based on voltage, current, and time duration.
 It also estimates daily and monthly energy usage and cost.
+![1740209760937](https://github.com/user-attachments/assets/180a0fad-ef42-4ce2-b5df-b14b14be8e3d)
 
-![carbon](https://github.com/user-attachments/assets/75bd5cf3-bcdc-458e-90fe-77fb9b0c379e)
 
 
 ## Future Improvements
